@@ -5,7 +5,7 @@
 This repository is JunyiWang's implementation of Assignment_01 of DIP. 
 
 <img src="pics/image1.jfif" alt="alt text" width="800">
-<img src="pics/image2.png" alt="alt text" width="800">
+<img src="pics/image2.jpg" alt="alt text" width="800">
 ## Requirements
 
 To install requirements:
