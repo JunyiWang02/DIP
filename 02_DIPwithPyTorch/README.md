@@ -9,7 +9,7 @@ python -m pip install -r requirements.txt
 You should also setup PyTorch according to your cuda version
 
 ### 1. Implement Poisson Image Editing with PyTorch.
-### The result are as followed
+### The results are as followed
 <img src="results/task_1/1.png" alt="alt text" width="800">
 <img src="results/task_1/2.png" alt="alt text" width="800">
 <img src="results/task_1/3.png" alt="alt text" width="800">
