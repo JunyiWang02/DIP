@@ -9,10 +9,11 @@ python -m pip install -r requirements.txt
 You should also setup PyTorch according to your cuda version
 
 ### 1. Implement Poisson Image Editing with PyTorch.
-The result are as followed
+### The result are as followed
 <img src="results/task_1/1.png" alt="alt text" width="800">
 <img src="results/task_1/2.png" alt="alt text" width="800">
 <img src="results/task_1/3.png" alt="alt text" width="800">
+
 ### 2. Pix2Pix implementation.
 ## Datasets
 
@@ -35,6 +36,7 @@ Due to the large number of segmentation categories in the dataset and the simpli
 ### [The result predicted by the training set]
 <img src="results/task_2/1.png" alt="train_results" width="1600">
 <img src="results/task_2/2.png" alt="train_results" width="1600">
+
 ### [The result predicted by the validation set]
 <img src="results/task_2/3.png" alt="train_results" width="1600">
 <img src="results/task_2/4.png" alt="train_results" width="1600">
