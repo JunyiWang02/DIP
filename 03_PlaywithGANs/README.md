@@ -53,9 +53,7 @@ python gradio_app.py
 Reference image:
 <img src="DragGAN/draggan_tmp/image.png" alt="alt text" width="200">
 Generated video:
-<video width="800" controls>
-  <source src="DragGAN/draggan_tmp/video.mp4" type="video/mp4">
-</video>
+
 
 
 
