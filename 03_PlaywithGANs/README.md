@@ -52,7 +52,7 @@ python gradio_app.py
 ## Results
 Reference image:
 
-<img src="DragGAN/draggan_tmp/image.png" alt="alt text" width="800">
+<img src="DragGAN/draggan_tmp/image_1.png" alt="alt text" width="600">
 Generated video:
 
 https://github.com/user-attachments/assets/556f462f-e844-4fc7-a516-23590f40a956
