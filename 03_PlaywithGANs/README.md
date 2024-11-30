@@ -7,19 +7,19 @@ This repository is JunyiWang's implementation of Assignment_03 of DIP.
 
 To install requirements:
 
-You can use the same file as the Assignment_02 of DIP [requirements.txt](DIP/02_DIPwithPyTorch/requirements.txt)  to install the requirements.
+You can use the same file as the Assignment_02 of DIP [requirements.txt] to install the requirements.
 
 ```bash
 python train.py
 ```
 ## Results 
 After training for 200 epochs, the results of train sets are as follows:
-<img src="DIP/03_PlaywithGANs/Pix2Pix/train_results/result_1.png" alt="alt text" width="800">
-<img src="DIP/03_PlaywithGANs/Pix2Pix/train_results/result_2.png" alt="alt text" width="800">
+<img src="/Pix2Pix/train_results/result_1.png" alt="alt text" width="800">
+<img src="/Pix2Pix/train_results/result_2.png" alt="alt text" width="800">
 
 the results of validation sets are as follows:
-<img src="DIP/03_PlaywithGANs/Pix2Pix/val_results/result_1.png" alt="alt text" width="800">
-<img src="DIP/03_PlaywithGANs/Pix2Pix/val_results/result_2.png" alt="alt text" width="800">
+<img src="/Pix2Pix/val_results/result_1.png" alt="alt text" width="800">
+<img src="/Pix2Pix/val_results/result_2.png" alt="alt text" width="800">
 
 ### Task 2
 ## Requirements
