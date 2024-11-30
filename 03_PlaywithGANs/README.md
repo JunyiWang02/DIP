@@ -55,6 +55,8 @@ Reference image:
 <img src="DragGAN/draggan_tmp/image.png" alt="alt text" width="800">
 Generated video:
 
+https://github.com/user-attachments/assets/556f462f-e844-4fc7-a516-23590f40a956
+
 
 
 
