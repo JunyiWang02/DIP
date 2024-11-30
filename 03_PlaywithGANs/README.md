@@ -14,12 +14,12 @@ python train.py
 ```
 ## Results 
 After training for 200 epochs, the results of train sets are as follows:
-<img src="03_PlaywithGANs/Pix2Pix/train_results/result_1.png" alt="alt text" width="800">
-<img src="03_PlaywithGANs/Pix2Pix/train_results/result_2.png" alt="alt text" width="800">
+<img src="Pix2Pix/train_results/result_1.png" alt="alt text" width="800">
+<img src="Pix2Pix/train_results/result_2.png" alt="alt text" width="800">
 
 the results of validation sets are as follows:
-<img src="03_PlaywithGANs/Pix2Pix/val_results/result_1.png" alt="alt text" width="800">
-<img src="/Pix2Pix/val_results/result_2.png" alt="alt text" width="800">
+<img src="Pix2Pix/val_results/result_1.png" alt="alt text" width="800">
+<img src="Pix2Pix/val_results/result_2.png" alt="alt text" width="800">
 
 ### Task 2
 ## Requirements
@@ -51,10 +51,10 @@ python gradio_app.py
 
 ## Results
 Reference image:
-<img src="DIP/03_PlaywithGANs/DragGAN/draggan_tmp/image.png" alt="alt text" width="800">
+<img src="DragGAN/draggan_tmp/image.png" alt="alt text" width="800">
 Generated video:
 <video width="800" controls>
-  <source src="DIP/03_PlaywithGANs/DragGAN/draggan_tmp/video.mp4" type="video/mp4">
+  <source src="DragGAN/draggan_tmp/video.mp4" type="video/mp4">
 </video>
 
 
